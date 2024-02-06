@@ -35,7 +35,7 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
   When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
-      ### Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
+     **Loan accepted**: If the company approves the loan, there are 3 possible scenarios described below:
 
             Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
 
@@ -43,7 +43,7 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
             Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan 
 
-      ### Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
+    **Loan rejected**: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
 Loan data set contains the complete loan data for all loans issued through the time period 2007 to 2011.
 
