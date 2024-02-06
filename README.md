@@ -41,7 +41,7 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
             Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
 
-            __Charged-off__: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan 
+            Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan 
 
     Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
@@ -50,34 +50,20 @@ Loan data set contains the complete loan data for all loans issued through the t
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 60 months term defaulters more than 36 months
+- B,C grade has more charged off loans and G grade has less
+- A1 sub grade has less charged off loans where as F5 has maximum
+- Employment length hasnot much difference on the defaulter
+- 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- Pandas 
+- Numpy 
+- Seaborn 
+- matplotlib.pyplot
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sarvanivvss] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
