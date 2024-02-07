@@ -21,7 +21,6 @@ Lending club case study is a data analysis project to see loan default is depend
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 
